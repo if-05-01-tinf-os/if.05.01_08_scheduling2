@@ -7,6 +7,9 @@ The goal of this week's assignment is to deal with scheduling of interactive and
 ## Required Tasks
 Answer the following questions
 
+1. **Round-Robin Scheduler --- Discussion**
+Round-robin schedulers normally maintain a list of all runnable processes, with each process occurring exactly once in the list. What would happen if a process occurred twice in the list?
+
 1. **Multiple Queues**
 A process on a system with Multiple Queues Scheduling needs 30 quanta to complete. How many times must it be swapped in, including the very first time (before it has run at all)?
 
